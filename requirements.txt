@@ -4,3 +4,4 @@ uvicorn==0.31.0
 numpy==2.1.2
 pandas==2.2.2
 obspy==1.4.1
+datetime==5.5
